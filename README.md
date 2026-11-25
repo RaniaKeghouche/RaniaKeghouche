@@ -5,7 +5,7 @@ Software engineering student at [ESTIN](https://estin.dz) in Algeria. I build we
 - 🌐 **Portfolio:** https://rania-keghouche.onrender.com
 - 💼 **LinkedIn:** [rania-keghouche](https://www.linkedin.com/in/rania-keghouche-2b56673a9/)
 - 📫 **Email:** r_keghouche@estin.dz
-- 📍 Constantine, Algeria
+- 📍 Béjaïa · Constantine, Algeria
 
 ## What I work with
 
@@ -22,7 +22,7 @@ Software engineering student at [ESTIN](https://estin.dz) in Algeria. I build we
 | [Horizon Skills Academy](https://github.com/RaniaKeghouche/Horizon) | Client project: school management app (enrollment, timetable, attendance, payments, payroll), Arabic RTL first | Tauri 2, React 19, TypeScript, Supabase |
 | [Gardia](https://github.com/RaniaKeghouche/gardia) | A digital twin for your garden, with photo based plant diagnosis | FastAPI, Flutter, PostgreSQL, ONNX |
 | [Rhythm](https://github.com/RaniaKeghouche/rhythm) | Sleep companion with an insights engine and habit experiments | Flutter, FastAPI, PostgreSQL |
-| [Hive](https://github.com/mohaneddz/Hive) | Local-first desktop photo library with on-device AI (CLIP search, faces, OCR) | Tauri, React, Rust, SQLite |
+| [Hive](https://github.com/RaniaKeghouche/Hive) | Local-first desktop photo library with on-device AI (CLIP search, faces, OCR) | Tauri, React, Rust, SQLite |
 | [NHSM Helper](https://github.com/RaniaKeghouche/nhsm-chatbot) | RAG chatbot for a school, answers in English, French and Darija | Node.js, MongoDB, Groq |
 | [DZ-Fit](https://github.com/RaniaKeghouche/dz-fitt) | Gym discovery platform for Algeria with map search and reviews | Django REST, Vue 3, PostgreSQL |
 | [InnerSky](https://github.com/RaniaKeghouche/innersky-compass) | Wellness app that draws your moods as a star constellation | React, TypeScript, Django |
